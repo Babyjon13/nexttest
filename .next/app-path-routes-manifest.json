@@ -1,1 +1,1 @@
-{"/_not-found/page":"/_not-found","/api/data/route":"/api/data","/api/recipe/[rid]/route":"/api/recipe/[rid]","/api/recipes/route.js/route":"/api/recipes/route.js","/components/page":"/components","/admin/page":"/admin","/page":"/","/recipe/[rid]/page":"/recipe/[rid]"}
+{"/api/data/route":"/api/data","/api/recipe/[rid]/route":"/api/recipe/[rid]","/api/recipes/route.js/route":"/api/recipes/route.js","/_not-found/page":"/_not-found","/admin/page":"/admin","/components/page":"/components","/page":"/","/exp/page":"/exp","/recipe/[rid]/page":"/recipe/[rid]"}

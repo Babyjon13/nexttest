@@ -1,5 +1,11 @@
 {
-  "/page": "app/page.js",
+  "/api/data/route": "app/api/data/route.js",
+  "/api/recipe/[rid]/route": "app/api/recipe/[rid]/route.js",
   "/api/recipes/route.js/route": "app/api/recipes/route.js/route.js",
-  "/admin/page": "app/admin/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/components/page": "app/components/page.js",
+  "/page": "app/page.js",
+  "/exp/page": "app/exp/page.js",
+  "/recipe/[rid]/page": "app/recipe/[rid]/page.js"
 }
