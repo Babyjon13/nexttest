@@ -1,0 +1,3 @@
+{
+  "/api/recipe/[rid]/route": "app/api/recipe/[rid]/route.js"
+}

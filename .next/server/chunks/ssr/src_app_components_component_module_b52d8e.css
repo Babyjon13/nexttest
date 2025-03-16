@@ -1,0 +1,195 @@
+/* [project]/src/app/components/component.module.css [app-client] (css) */
+.component-module__Ta8_eq__table {
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  width: 554px;
+}
+
+.component-module__Ta8_eq__table th, .component-module__Ta8_eq__table td {
+  width: fit-content;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+.component-module__Ta8_eq__table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+  color: #333;
+}
+
+.component-module__Ta8_eq__table tr:hover {
+  background-color: #f9f9f9;
+}
+
+.component-module__Ta8_eq__button {
+  background-color: #f4f4f4;
+  border: 1px solid #000;
+  padding: 8px 16px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: background-color .3s;
+  width: 100%;
+  margin: 0;
+}
+
+.component-module__Ta8_eq__button:hover {
+  background-color: #ddd;
+}
+
+.component-module__Ta8_eq__lala {
+  width: fit-content;
+  display: flex;
+  height: fit-content;
+  gap: 5px;
+}
+
+.component-module__Ta8_eq__calc {
+  height: fit-content;
+  border: 0;
+  background-color: #0000;
+  cursor: pointer;
+  transition: background-color .3s;
+}
+
+.component-module__Ta8_eq__portion {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  height: fit-content;
+}
+
+.component-module__Ta8_eq__info {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  justify-content: space-between;
+}
+
+.component-module__Ta8_eq__clock {
+  display: flex;
+  width: fit-content;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-module__Ta8_eq__clock p {
+  margin: 0;
+}
+
+.component-module__Ta8_eq__kal {
+  width: 80px;
+  height: 80px;
+  background-color: #033;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.component-module__Ta8_eq__kal p {
+  color: #fff;
+  font-size: small;
+  font-weight: 300;
+}
+
+.component-module__Ta8_eq__kkal {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-module__Ta8_eq__kkal p {
+  margin: 0;
+}
+
+.component-module__Ta8_eq__bel {
+  width: 80px;
+  height: 80px;
+  background-color: #9c3;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.component-module__Ta8_eq__bel p {
+  margin: 0;
+  font-size: small;
+  font-weight: 300;
+}
+
+.component-module__Ta8_eq__belki {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-module__Ta8_eq__belki p {
+  margin: 0;
+}
+
+.component-module__Ta8_eq__oil {
+  width: 80px;
+  height: 80px;
+  background-color: #9c3;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.component-module__Ta8_eq__oil p {
+  margin: 0;
+  font-size: small;
+  font-weight: 300;
+}
+
+.component-module__Ta8_eq__oily {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-module__Ta8_eq__oily p {
+  margin: 0;
+}
+
+.component-module__Ta8_eq__carb {
+  width: 80px;
+  height: 80px;
+  background-color: #9c3;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.component-module__Ta8_eq__carb p {
+  margin: 0;
+  font-size: small;
+  font-weight: 300;
+}
+
+.component-module__Ta8_eq__carbs {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-module__Ta8_eq__carbs p {
+  margin: 0;
+}
+
+/*# sourceMappingURL=src_app_components_component_module_b52d8e.css.map*/

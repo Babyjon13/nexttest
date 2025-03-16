@@ -1,0 +1,21 @@
+/* [project]/src/app/components/Header.module.css [app-client] (css) */
+.Header-module__GPz-la__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #ffffffb3;
+  backdrop-filter: blur(5px);
+  padding-left: 10%;
+  padding-right: 10%;
+  width: 100%;
+  z-index: 2;
+  box-sizing: border-box;
+}
+
+.Header-module__GPz-la__ssilki {
+  font-size: 24px;
+  display: flex;
+  gap: 25px;
+}
+
+/*# sourceMappingURL=src_app_components_Header_module_b52d8e.css.map*/
